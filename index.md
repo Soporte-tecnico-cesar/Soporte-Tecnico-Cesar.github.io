@@ -1,7 +1,12 @@
 [Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md)
 
 ##  Bienvenidos a Soporte Tecnico Cesar 
-Te recomendamos a que visites a nuestro nueva empresa , en donde nosotros nos dedicamos a realizar mantenimiento a distancia Nosotros llevamos casi un año usando esta plataforma, y para ello te invitamos a que conoscas nuestra publicidad en donde visitaras diversas herramientas para realizar tareas o actividades.  a y no olvides a llamar este numero telefonico 3423920 para que nos contactes por medio de esta plataforma. Tambien nosotros contamos con mejores productos y servicios las cuales brindan para tu mejor soporte tecnico.
+Nosotros somos una empresa que fue fundada en el año 2021, con la finalidad de brindar ayuda en el mantenimiento y reparación de equipos de cómputo, contamos con técnicos profesionales y con gran experiencia en el ramo, también brindamos apoyo técnico vía remota, ofrecemos una serie de productos y servicios en computación, contamos con una oficina en el Estado de México.
+Misión:
+Ofrecer a nuestros clientes una solución a su equipo de cómputo y con ello satisfacer sus necesidades.
+ Visión:
+Ser una de las Empresas más reconocidas a nivel mundial, en el área  de servicios y mantenimiento de cómputo.
+
 
 Te contamos nuestra experiencia, posteriormente ayudamos a los clientes a darle soporte mantenimiento
 
