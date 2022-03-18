@@ -5,6 +5,7 @@ Nosotros somos una empresa que fue fundada en el año 2021, con la finalidad de 
 
 Misión:
 Ofrecer a nuestros clientes una solución a su equipo de cómputo y con ello satisfacer sus necesidades.
+
  Visión:
 Ser una de las Empresas más reconocidas a nivel mundial, en el área  de servicios y mantenimiento de cómputo.
 
