@@ -5,5 +5,11 @@ En Soporte Técnico Cesar nos dedicamos a brindar asesoría y mantenimiento en e
 
 Le recomendamos que conozca nuestra oficina de manera presencial o atravez de nuestras plataformas.
 
+UBICACION
+Nos encontramos ubicados al oriente.
+En el Municipio de Nezahualcóyotl, Estado de México 
+Ave. Bordo de Xochiaca No. 300 CP 57200
+Cerca de la Alameda Oriente.
+
 
 
