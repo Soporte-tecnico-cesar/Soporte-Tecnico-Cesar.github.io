@@ -1,13 +1,11 @@
 [Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md)
 
 ##  Bienvenidos a Soporte Tecnico Cesar 
-Nosotros somos una empresa que fue fundada en el año 2021, con la finalidad de brindar ayuda en el mantenimiento y reparación de equipos de cómputo, contamos con técnicos profesionales y con gran experiencia en el ramo, también brindamos apoyo técnico vía remota, ofrecemos una serie de productos y servicios en computación, contamos con una oficina en el Estado de México.
+En Soporte Técnico Cesar nos dedicamos a brindar asesoría y mantenimiento en equipos de cómputo con la finalidad de resolver sus problemas como actualización de Sistemas, actualización de antivirus, limpieza interna en equipos, suministro de refacciones, Así como también ofrecemos Mantenimiento Preventivo o Correctivo.
 
-Misión:
-Ofrecer a nuestros clientes una solución a su equipo de cómputo y con ello satisfacer sus necesidades.
+Le recomendamos que conozca nuestra oficina de manera presencial o atravez de nuestras plataformas.
+También contamos con los mejores productos y servicios acorde a sus necesidades.
 
- Visión:
-Ser una de las Empresas más reconocidas a nivel mundial, en el área  de servicios y mantenimiento de cómputo.
 
 
 Te contamos nuestra experiencia, posteriormente ayudamos a los clientes a darle soporte mantenimiento
