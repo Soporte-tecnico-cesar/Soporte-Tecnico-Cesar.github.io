@@ -5,6 +5,10 @@ En Soporte Técnico Cesar nos dedicamos a brindar asesoría y mantenimiento en e
 
 Le recomendamos que conozca nuestra oficina de manera presencial o atravez de nuestras plataformas.
 
+# Asesoria Personalizada
+
+Nuestra asesoria perdsonalizad, permite la solucion demanera mas  eficaz independientemente del tipo de negocio o giro de su empresa.
+
 
 Nos encontramos ubicados al oriente.
 En el Municipio de Nezahualcóyotl, Estado de México 
