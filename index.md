@@ -9,8 +9,6 @@ También contamos con los mejores productos y servicios acorde a sus necesidades
 
 
 
-Te contamos nuestra experiencia, posteriormente ayudamos a los clientes a darle soporte mantenimiento
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
