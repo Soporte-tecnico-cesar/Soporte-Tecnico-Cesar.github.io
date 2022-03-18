@@ -1,1 +1,18 @@
 [Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md)
+
+¿ES RECOMENDABLE DESFRAGMENTAR MI DISCO? Y ¿CADA CUÁNDO TENGO QUE HACERLO?
+
+Sí, cada seis meses para darle mayor velocidad a tu equipo y poder depurar mejor tu equipo.
+
+¿CADA CUÁNDO ES RECOMENDABLE HACER UNA REVISIÓN TOTAL DE VIRUS EN MI COMPUTADORA?
+
+Varia esto en base a la frecuencia de utilizar ya sea dispositivos externos o el uso del Internet, por lo menos una vez al mes
+
+¿MI COMPUTADORA ESTÁ MUY LENTA QUE PUEDO HACER?
+
+Verificar que versión del sistema operativo, si el equipo contiene algún virus o alguna aplicación que esté causando conflicto..
+
+¿AL ENCENDER MI PC SE ESCUCHA UN RUIDO MUY FUERTE, ADEMÁS SE CALIENTA MUY RÁPIDO?
+
+Puede estar fallando el ventilador ya sea en de la fuente de poder o el del procesador.
+
