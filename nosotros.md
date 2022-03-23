@@ -7,7 +7,7 @@ Nosotros somos una empresa,con 20 años de experiencia que fue fundada en el añ
 # Misión:
 Ofrecer a nuestros clientes una solución a su equipo de cómputo y con ello satisfacer sus necesidades.
 
- ## Visión:
+## Visión:
 Ser una de las Empresas más reconocidas a nivel mundial, en el área de servicios y mantenimiento de cómputo
 
 ### Valores de la Empresa
