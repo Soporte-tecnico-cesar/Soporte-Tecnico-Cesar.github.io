@@ -12,4 +12,4 @@ Ser una de las Empresas más reconocidas a nivel mundial, en el área de servici
 
 ### Valores de la Empresa
 Nosotros nos comprometemos a solucionar las fallas mas comunes que tiene como por ejemplo el disco duro, la impresora, posteriormente nosotros te ayudaremos a como
-resolver su problema con el sistema de hardware que esta usted presentando, para ello optimiza tu disco duro. desfragmentalo, y listo con eso se soluciona.
+resolver su problema con el sistema de hardware que esta usted presentando, para ello optimiza tu disco duro. desfragmentalo, y listo con eso se debe de solucionar.
