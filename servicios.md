@@ -4,6 +4,7 @@
 
 ## Mantenimiento Preventivo
 
+
 ### Mantenimiento Correctivo
 
 #### Soporte Tecnico a distancia 
@@ -16,12 +17,3 @@
 
 
 
-Venta de Paquete de Antivirus.
-
-Venta de Productos de Computo.
-
-Asesoría Remota.
-
-Asesoría Telefónica.
-
-Costos Accesibles.
