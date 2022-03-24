@@ -2,7 +2,19 @@
 
 # Ofrecemos:
 
-Soporte Técnico para PC.
+## Mantenimiento Preventivo
+
+### Mantenimiento Correctivo
+
+#### Soporte Tecnico a distancia 
+
+##### Soporte Tecnico Presencial       
+
+###### Soporte Tecnico Via remota 
+
+###### oporte Tecnico en Linea
+
+
 
 Venta de Paquete de Antivirus.
 
