@@ -16,13 +16,42 @@ Verificar que versión del sistema operativo, si el equipo contiene algún virus
 
 Puede estar fallando el ventilador ya sea en de la fuente de poder o el del procesador.
 
-Que puedo hacer para que me permita mover el cursor del mouse
+¿Cada cuando es recomendable de darle mantenimiento a los equipos de computo?
 
+Lo recomendable es hacerle un mantenimiento físico cada 6 meses.
 
+¿Mi computadora de repente se Apaga, Que debemos de hacer?
 
+Comprueba si el pc se recalienta,  Haz una restauración del sistema, Revisa el voltaje,  Chequea la memoria RAM,  Escanea el PC en busca de virus, Comprueba las conexiones y tarjetas de la placa,Revisa la fuente de alimentación o cámbiala,Comprueba la motherboard o placa principal y por ultimo repara tu windows.
 
+¿Que hacer si mi computadora no se actualiza el sistema operativo?
 
+Entra en la Configuración de Windows, y entra en Actualización y seguridad
+En la columna de la izquierda, pulsa en la sección Solucionar problemas
+Baja hasta la lista de En funcionamiento, y en ella pulsa sobre Windows Update
+Al hacerlo, aparecerá el botón Ejecutar el solucionador de problemas tal y como lo ves en la captura. Púlsalo
+Si el solucionador encuentra un problema, tendrás que pulsar sobre el botón de aplicar la solución y seguir las indicaciones
+Al terminar reinicia, y vuelve a buscar actualizaciones.
 
+¿Porque falla la memoria ram?
+
+La suciedad, junto a la humedad, pueden ser los factores causantes de problemas no solo en la memoria, sino también en otros componentes de la PC. Si este es tu caso, no hace falta arreglar el modulo ram, simplemente limpialo bien, al menos una vez al mes.
+
+¿Que pasa si el disco duro esta dañado
+
+el disco duro a menudo hace chasquidos cuando está ocupado pero si escuchas otro ruido, especialmente un sonido fuerte metálico o cualquier otro sonido fuerte existe una gran posibilidad de que esté dañado.
+
+¿Cuales son las fallas mas comunes del disco duro?
+
+Errores comunes en el uso de un disco duro son Virus. Cambios de temperaturas. Archivos corruptos. Golpes.
+
+En la nueva ventana haz click en «Reparar unidad». Revisa el resultado del escaneo. Haz click en «Escanear y reparar la unidad».
+Elige cuándo deseas reparar el sistema de archivos.
+Espera a que Windows 10/8 escanee y repare los sectores defectuosos del disco duro.
+
+¿Cuál es el mejor programa para reparar los discos duros?
+
+Disk Drill es con diferencia la suite de recuperación de datos más moderna del mercado, tanto por su diseño como por sus características.
 
 
 
