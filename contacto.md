@@ -22,4 +22,4 @@ Calificacion de Servicio: <input type="range">
   
 <input type="submit">
 </form>
-phone=123-45-678 
+
